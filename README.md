@@ -1,6 +1,3 @@
-
-Claro, aqui está um exemplo de perfil para o GitHub:
-
 👋 Olá, eu sou João Victor, mas pode me chamar de Jao!
 👦 Sobre Mim
 🎂 14 anos
