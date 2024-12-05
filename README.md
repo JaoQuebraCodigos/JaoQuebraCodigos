@@ -1,8 +1,7 @@
 👋 Olá, eu sou João Victor, mas pode me chamar de Jao!
 -👦 Sobre Mim
--🎂 14 anos
+-🎂 15 anos
 -🌍 Brasil
--🏳️‍🌈 Qualquer pronome serve
 -💻 Interesses:
 👨‍💻 Programação
 🐧 Linux
@@ -14,9 +13,8 @@
 
 -👋 Hi there, I'm João Victor, but you can call me Jao!
 -👦 About Me
--🎂 14 years old
+-🎂 15 years old
 -🌍 Brazil
--🏳️‍🌈 Any pronouns are fine
 -💻 Interests:
 👨‍💻 Programming
 🐧 Linux
